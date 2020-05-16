@@ -13,7 +13,7 @@ If the user accepts the invitation, then they will receive a series of ten codin
 
 
 
-*browserTabs.py* 
+*browserTabs.py* is my attempt at being automatically selected for the Google Foobar Challenge.
 
 In *browserTabs.py*, I took a list of computer science terms from `https://en.wikipedia.org/wiki/Glossary_of_computer_science` and loaded them into *lotsOfTerms.txt* and *searchTerms.txt*.  The program then chooses to random terms, randomly chooses between either "Python" or "Java", and creates a string in the following format:
 
