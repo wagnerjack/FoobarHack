@@ -3,7 +3,7 @@
 
 Google Foobar is a invite-only coding challenge that Google uses to hire software developers.  Certain terms associated with coding will cause a secret invitation to pop up in one's browser saying:
 
-###"You're speaking our language.  Up for a challenge?###
+##"You're speaking our language.  Up for a challenge?##
 
 | I want to play                        | No thanks                          |Don't show me this again                          |
 |------------------------------------------|------------------------------------------|------------------------------------------|
