@@ -3,7 +3,7 @@
 
 Google Foobar is a invite-only coding challenge that Google uses to hire software developers.  Certain terms associated with coding will cause a secret invitation to pop up in one's browser saying:
 
-##"You're speaking our language.  Up for a challenge?##
+"You're speaking our language.  Up for a challenge?
 
 | I want to play                        | No thanks                          |Don't show me this again                          |
 |------------------------------------------|------------------------------------------|------------------------------------------|
@@ -13,7 +13,7 @@ If the user accepts the invitation, then they will receive a series of ten codin
 
 
 
-###*browserTabs.py* 
+*browserTabs.py* 
 
 In browserTabs.py*, I took a list of computer science terms from `https://en.wikipedia.org/wiki/Glossary_of_computer_science` and loaded them into *lotsOfTerms.txt* and *searchTerms.txt*.  The program then chooses to random terms, randomly chooses between either "Python" or "Java", and creates a string in the following format:
 
